@@ -11,7 +11,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/lge/p930/p930.mk)
 
-PRODUCT_NAME := cm_p930
+PRODUCT_NAME := lineage_p930
 
 # Release name and versioning
 PRODUCT_RELEASE_NAME := OptimusLTE
